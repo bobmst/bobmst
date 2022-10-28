@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on complete all achievements in Monster Hunter Sunbreak LOL
+- 🌱 I’m currently learning Data Science at Drexel University
+
