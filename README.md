@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bobmst/bobmst/output/github-snake-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bobmst/bobmst/output/github-snake-light.gif">
+  <img alt="snk" src="https://raw.githubusercontent.com/bobmst/bobmst/output/github-snake.svg">
 </picture>
 
 - 🔭 I’m currently working on complete all achievements in Monster Hunter Sunbreak LOL
