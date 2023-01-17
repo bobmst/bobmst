@@ -21,5 +21,6 @@
 *generated with [Platane/snk](https://github.com/Platane/snk)*
 -->
 
-- 🌱 I’m currently learning Data Science at Drexel University
+- 🌱 I'm pursuing a master's degree in Data Science at [Drexel University](https://drexel.edu/cci/)
+- 🤔 I'm interested in machine learning and NLP
 
