@@ -1,10 +1,6 @@
 ### Hello World 
 
 <!--
-**bobmst/bobmst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,6 +17,11 @@ Here are some ideas to get you started:
   <img alt="snk" src="https://raw.githubusercontent.com/bobmst/bobmst/output/github-snake.svg">
 </picture>
 
-- 🔭 I’m currently working on complete all achievements in Monster Hunter Sunbreak LOL
+![git snake](https://raw.githubusercontent.com/bobmst/bobmst/output/github-snake-dark.gif#gh-dark-mode-only)
+![git snake](https://raw.githubusercontent.com/bobmst/bobmst/output/github-snake-light.gif#gh-light-mode-only)
+<!--
+*generated with [Platane/snk](https://github.com/Platane/snk)*
+-->
+
 - 🌱 I’m currently learning Data Science at Drexel University
 
