@@ -48,7 +48,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          color_snake: Aqua
+          # color_snake: Aqua
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
       # - name: generate github-contribution-grid-snake.svg
