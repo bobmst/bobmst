@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every day
   schedule:
-    - cron: "*/30 * * * *" 
+    - cron: "0 0 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -28,8 +28,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark2.svg?color_snake=blue
-            dist/github-snake-white.gif?color_snake=aqua
+            dist/github-snake-light.gif?color_snake=aqua
             dist/github-snake-dark.gif?color_snake=turquoise&palette=github-dark
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
