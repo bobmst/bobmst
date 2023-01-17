@@ -17,7 +17,7 @@
   <img alt="snk" src="https://raw.githubusercontent.com/bobmst/bobmst/output/github-snake.svg">
 </picture> -->
 ![git snake](https://raw.githubusercontent.com/bobmst/bobmst/output/github-snake-light.gif#gh-light-mode-only)
-![git snake](https://raw.githubusercontent.com/bobmst/bobmst/output/github-snake-dark.gif#gh-dark-mode-only)
+![git snake](https://raw.githubusercontent.com/bobmst/bobmst/output/github-snake.svg#gh-dark-mode-only)
 
 <!--
 *generated with [Platane/snk](https://github.com/Platane/snk)*
