@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **explainable AI**
 
-- 📫 How to reach me **shutian.ma@outlook.com**
+- 📫 How to reach me **bm3336@drexel.edu**
 
 - 📄 Know about my experiences [www.linkedin.com/in/shutianma](www.linkedin.com/in/shutianma)
 
