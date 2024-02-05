@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Bob</h1>
 <h3 align="center">Master student in Data science at Drexel University</h3>
 
-- 🌱 I’m currently learning **explainable AI**
+- 🌱 I’m working on Voice Authentication System
 
 - 📫 How to reach me **bm3336@drexel.edu**
 
