@@ -6,10 +6,8 @@
 *generated with [Platane/snk](https://github.com/Platane/snk)*
 -->
 
-<h1 align="center">Hi 👋, I'm Bob</h1>
-<h3 align="center">Master student in Data science at Drexel University</h3>
+<h1 align="center">Hi 👋, This is Bob</h1>
 
-- 🌱 I’m working on Voice Authentication System
 
 - 📫 How to reach me **bm3336@drexel.edu**
 
